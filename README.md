@@ -25,6 +25,24 @@ El trabajo se centra especialmente en tres pilares:
 - **Manejo eficiente de la memoria**
 - **Programación Orientada a Objetos (POO)**
 
+## *Contenido*
+
+## Contenido
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Tipo</th>
+    <th>Contenido</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Práctica</td>
+    <td><a href="./practicas/practica-no-1/README.md">Práctica No. 1</a></td>
+  </tr>
+</table>
+
+
 ## *Sobre mí*
 
 <img src="./assets/foto%20perfil.jpeg" alt="Foto de perfil de Andrea" width="350">
