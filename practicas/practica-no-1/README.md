@@ -32,7 +32,7 @@
 ---
 
 <details>
-<summary><h2>2. Ejercicios</h2></summary>>
+<summary><h2>2. Ejercicios</h2></summary>
 
 ### Ejercicio 1.
 
