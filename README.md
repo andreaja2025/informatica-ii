@@ -25,8 +25,6 @@ El trabajo se centra especialmente en tres pilares:
 - **Manejo eficiente de la memoria**
 - **Programación Orientada a Objetos (POO)**
 
-## *Contenido*
-
 ## Contenido
 
 <table>
