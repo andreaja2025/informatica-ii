@@ -27,7 +27,7 @@ El trabajo se centra especialmente en tres pilares:
 
 ## *Sobre mí*
 <p align="center">
-  <img src="./assets/perfil.jpeg" alt="Foto de perfil de Andrea" width="220">
+  <img src="./assets/foto%20perfil.jpeg" alt="Foto de perfil de Andrea" width="220">
 </p>
 **Andrea Arias Cantillo**
 Ingeniería Electrónica
