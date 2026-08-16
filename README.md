@@ -25,19 +25,42 @@ El trabajo se centra especialmente en tres pilares:
 - **Manejo eficiente de la memoria**
 - **Programación Orientada a Objetos (POO)**
 
-## *Sobre mí*
+<h2>Sobre mí</h2>
 
-<img src="./assets/foto%20perfil.jpeg" alt="Foto de perfil de Andrea" width="350">
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="./assets/foto%20perfil.jpeg" alt="Foto de Andrea Arias Cantillo" width="280">
+    </td>
 
-**Andrea Arias Cantillo**
-Ingeniería Electrónica
+    <td width="65%" valign="middle">
 
-Me gusta aprender y desarrollar soluciones tecnológicas que puedan ir más
-allá de la programación y tener una aplicación real. Me interesan
-especialmente los proyectos con **impacto social** y aquellos que buscan
-resolver necesidades o mejorar procesos en la **industria**.
+      <h2>Andrea Arias Cantillo</h2>
 
-Actualmente estoy fortaleciendo mis conocimientos en programación y
-desarrollo de soluciones aplicadas a la ingeniería.
+      <p>
+        <strong>Ingeniería Electrónica</strong>
+      </p>
 
-**Perfil profesional:** [LinkedIn](https://www.linkedin.com/in/andrea-arias-cantillo/)
+      <p>
+        Me gusta aprender y desarrollar soluciones tecnológicas que puedan
+        ir más allá de la programación y tener una aplicación real.
+        Me interesan especialmente los proyectos con
+        <strong>impacto social</strong> y aquellos que buscan resolver
+        necesidades o mejorar procesos en la <strong>industria</strong>.
+      </p>
+
+      <p>
+        Actualmente estoy fortaleciendo mis conocimientos en programación
+        y desarrollo de soluciones aplicadas a la ingeniería.
+      </p>
+
+      <p>
+        <strong>Perfil profesional:</strong>
+        <a href="https://www.linkedin.com/in/andrea-arias-cantillo/">
+          LinkedIn
+        </a>
+      </p>
+
+    </td>
+  </tr>
+</table>
