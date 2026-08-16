@@ -45,6 +45,9 @@ Jose
 Javier
 ...
 ```
+**Solución** 
+[Ver solución 1. Basico](basico.py)
+
 ---
 ### 2. Medio
 **Determinar los números perfectos en un intervalo:** un **número perfecto** es
@@ -63,6 +66,8 @@ retorne una lista con los **números perfectos** en ese rango.
 - **6** es perfecto porque `1 + 2 + 3 = 6`.
 - **28** es perfecto porque `1 + 2 + 4 + 7 + 14 = 28`.
 
+**Solución** 
+[Ver solución 2. Medio](medio.py)
 ---
 ### 3. Sobresaliente
 **Calcular el promedio por columnas en una matriz desde un archivo**.
@@ -88,3 +93,6 @@ por espacios.
 - La matriz tendrá dimensiones desconocidas (puede ser de cualquier tamaño).
 - Cada fila del archivo de salida debe contener el promedio correspondiente.
 - Se permite el uso de funciones para manipular strings `(split(), strip(), etc.).`
+
+**Solución** 
+[Ver solución 3. Sobresaliente](sobresaliente.py)
