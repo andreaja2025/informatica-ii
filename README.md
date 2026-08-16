@@ -29,17 +29,14 @@ El trabajo se centra especialmente en tres pilares:
 
 <table>
   <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="./assets/foto%20perfil.jpeg" alt="Foto de Andrea Arias Cantillo" width="280">
+    <td align="center" width="35%">
+      <img src="./assets/foto%20perfil.jpeg" width="280" alt="Foto de Andrea Arias Cantillo">
     </td>
+    <td width="65%">
 
-    <td width="65%" valign="middle">
+      <h3>Andrea Arias Cantillo</h3>
 
-      <h2>Andrea Arias Cantillo</h2>
-
-      <p>
-        <strong>Ingeniería Electrónica</strong>
-      </p>
+      <p><strong>Ingeniería Electrónica</strong></p>
 
       <p>
         Me gusta aprender y desarrollar soluciones tecnológicas que puedan
@@ -56,9 +53,7 @@ El trabajo se centra especialmente en tres pilares:
 
       <p>
         <strong>Perfil profesional:</strong>
-        <a href="https://www.linkedin.com/in/andrea-arias-cantillo/">
-          LinkedIn
-        </a>
+        <a href="https://www.linkedin.com/in/andrea-arias-cantillo/">LinkedIn</a>
       </p>
 
     </td>
