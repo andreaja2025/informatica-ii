@@ -34,6 +34,11 @@ El trabajo se centra especialmente en tres pilares:
     <th>Contenido</th>
   </tr>
   <tr>
+    <td>0</td>
+    <td>Prueba diagnóstica</td>
+    <td><a href="./prueba-diagnostica/README.md">Prueba Diagnóstica</a></td>
+  </tr>
+  <tr>
     <td>1</td>
     <td>Práctica</td>
     <td><a href="./practicas/practica-no-1/README.md">Práctica No. 1</a></td>
