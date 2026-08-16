@@ -581,6 +581,189 @@ La serie mas larga es con la semilla: j, teniendo m terminos.
 <details>
 <summary><h2>4. Problemas (impares)</h2></summary>
 
+### Problema 1.
 
+Escriba un programa que identifique si un carácter ingresado es una vocal, una consonante o ninguna de las dos, e imprima un mensaje según el caso.
+
+**Nota:** el formato de salida debe ser:
+
+```text
+no es una letra.
+a es una vocal.
+```
+
+### Problema 3.
+
+Escriba un programa que deba leer un mes y un día de dicho mes para luego decir si esa combinación de mes y día es válida. El caso más especial es el `29 de febrero`; en dicho caso imprimir `posiblemente año bisiesto`.
+
+**Nota:** el formato de salida debe ser:
+
+```text
+14 es un mes invalido.
+31/4 es una fecha invalida.
+27/4 es una fecha valida.
+29/2 es valida en bisiesto.
+```
+
+### Problema 5.
+
+Escriba un programa que muestre el siguiente patrón centrado en la pantalla, formando un diamante:
+
+```text
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+```
+
+El tamaño del patrón estará determinado por un número entero impar que ingrese el usuario.
+
+**Ejemplo:** en el patrón mostrado, el tamaño de la figura es `7`.
+
+### Problema 7.
+
+En la serie de Fibonacci, cada número es la suma de los 2 anteriores e inicia con `1` y `1`.
+
+**Ejemplo:**
+
+```text
+1, 1, 2, 3, 5, 8, ...
+```
+
+Escriba un programa que reciba un número **n** y halle la suma de todos los números pares en la serie de Fibonacci menores a **n**.
+
+**Ejemplo:** si se ingresa `10`, se realizará la suma de:
+
+```text
+2 + 8 = 10
+```
+
+**Nota:** el formato de salida debe ser:
+
+```text
+El resultado de la suma es: 10
+```
+
+### Problema 9.
+
+Escriba un programa que pida un número entero **N** e imprima el resultado de la suma de todos sus dígitos elevados a sí mismos.
+
+**Ejemplo:** si se ingresa `1223`, el resultado será:
+
+```text
+1^1 + 2^2 + 2^2 + 3^3 = 36
+```
+
+**Nota:** la salida del programa debe ser:
+
+```text
+El resultado de la suma es: 36.
+```
+
+### Problema 11.
+
+Escriba un programa que reciba un número y calcule el mínimo común múltiplo de todos los números enteros entre `1` y el número ingresado.
+
+**Ejemplo:** si se recibe `4`, el programa debe imprimir:
+
+```text
+El minimo comun multiplo es: 12.
+```
+
+### Problema 13.
+
+Escriba un programa que reciba un número y calcule la suma de todos los números primos menores que el número ingresado.
+
+**Ejemplo:** si se recibe `10`, el programa debe imprimir:
+
+```text
+El resultado de la suma es: 17.
+```
+
+### Problema 15.
+
+Empezando con el número `1` y moviéndose hacia la izquierda y en sentido horario se genera una espiral de números como la siguiente:
+
+<table>
+  <tr>
+    <td><strong>21</strong></td>
+    <td>22</td>
+    <td>23</td>
+    <td>24</td>
+    <td><strong>25</strong></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td><strong>7</strong></td>
+    <td>8</td>
+    <td><strong>9</strong></td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>6</td>
+    <td><strong>1</strong></td>
+    <td>2</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td><strong>5</strong></td>
+    <td>4</td>
+    <td><strong>3</strong></td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td><strong>17</strong></td>
+    <td>16</td>
+    <td>15</td>
+    <td>14</td>
+    <td><strong>13</strong></td>
+  </tr>
+</table>
+
+En el caso de esta espiral de `5x5`, la suma de los números en la diagonal es `101`.
+
+Escriba un programa que reciba un número impar **n** y calcule la suma de los números en la diagonal de una espiral de `nxn`.
+
+**Nota:** la salida del programa debe ser:
+
+```text
+En una espiral de 5x5, la suma es: 101.
+```
+
+**Otra nota:** se le dará una bonificación si imprime la espiral.
+
+### Problema 17.
+
+La secuencia de números triangulares se forma al sumar su posición en el arreglo con el valor del número anterior:
+
+`1, 1 + 2 = 3, 3 + 3 = 6, 6 + 4 = 10, 10 + 5 = 15, 15 + 6 = 21, 21 + 7 = 28, ...`
+
+Si listamos los números triangulares y sus divisores tenemos:
+
+`1: 1`  
+`3: 1, 3`  
+`6: 1, 2, 3, 6`  
+`10: 1, 2, 5, 10`  
+`15: 1, 3, 5, 15`  
+`21: 1, 3, 7, 21`  
+`28: 1, 2, 4, 7, 14, 28`
+
+Se observa que **28 es el primer número triangular que tiene más de 5 divisores**.
+
+Escriba un programa que reciba un número **K** y calcule cuál es el primer número triangular que tiene más de **K divisores**.
+
+**Tip:** El enésimo número triangular se puede representar como:
+
+`n * (n + 1) / 2`
+
+**Nota:** La salida del programa debe ser:
+
+```text
+El numero es: 28 que tiene 6 divisores.
 
 </details>
