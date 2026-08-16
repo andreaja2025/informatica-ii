@@ -37,7 +37,6 @@
 ### Ejercicio 1.
 
 Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el residuo de la división **A/B**.
-
 **Ejemplo:** si se ingresan `8` y `3`, se debe imprimir:
 
 ```text
@@ -51,7 +50,6 @@ El residuo de la division 8/3 es: 2
 ### Ejercicio 2.
 
 Escriba un programa que pida un número **N** e imprima en pantalla si es par o impar.
-
 **Ejemplo:** si se ingresa `5`, se debe imprimir:
 
 ```text
@@ -61,7 +59,6 @@ Escriba un programa que pida un número **N** e imprima en pantalla si es par o 
 ### Ejercicio 3.
 
 Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el mayor.
-
 **Ejemplo:** si se ingresan `7` y `3`, se debe imprimir:
 
 ```text
@@ -71,7 +68,6 @@ El mayor es 7
 ### Ejercicio 4.
 
 Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el menor.
-
 **Ejemplo:** si se ingresan `7` y `3`, se debe imprimir:
 
 ```text
@@ -81,7 +77,6 @@ El menor es 3
 ### Ejercicio 5.
 
 Escriba un programa que pida dos números **A** y **B** e imprima en pantalla la división **A/B** con redondeo.
-
 **Ejemplo:** si se ingresan `8` y `3`, se debe imprimir:
 
 ```text
@@ -97,7 +92,6 @@ Si se ingresan `7` y `3`, se debe imprimir:
 ### Ejercicio 6.
 
 Escriba un programa que pida dos números **A** y **B** e imprima en pantalla la potencia **A^B**, sin hacer uso de librerías matemáticas.
-
 **Ejemplo:** si se ingresan `5` y `3`, se debe imprimir:
 
 ```text
@@ -107,7 +101,6 @@ Escriba un programa que pida dos números **A** y **B** e imprima en pantalla la
 ### Ejercicio 7.
 
 Escriba un programa que pida un número **N** e imprima en pantalla la suma de todos los números entre `0` y **N** (incluyéndose el mismo).
-
 **Ejemplo:** si se ingresa `5`:
 
 ```text
@@ -123,13 +116,11 @@ La sumatoria desde 0 hasta 5 es: 15
 ### Ejercicio 8.
 
 Escriba un programa que pida un número **N** e imprima en pantalla su factorial.
-
 **Ejemplo:** si se ingresa `5`:
 
 ```text
 5!=1*2*3*4*5=120
 ```
-
 por lo que se debe imprimir:
 
 ```text
@@ -139,9 +130,7 @@ por lo que se debe imprimir:
 ### Ejercicio 9.
 
 Escriba un programa que pida un número **N** e imprima el perímetro y área de un círculo con radio **N**.
-
 **Nota:** use `3.1416` como una aproximación de pi.
-
 **Ejemplo:** si se ingresa `1`, se debe imprimir:
 
 ```text
@@ -152,7 +141,6 @@ Area:3.1416
 ### Ejercicio 10.
 
 Escriba un programa que pida un número **N** e imprima en pantalla todos los múltiplos de dicho número entre `1` y `100`.
-
 **Ejemplo:** si se ingresa `33`, se debe imprimir:
 
 ```text
@@ -165,7 +153,6 @@ Multiplos de 33 menores que 100:
 ### Ejercicio 11.
 
 Escriba un programa que pida un número **N** e imprima en pantalla su tabla de multiplicar hasta `10xN`.
-
 **Ejemplo:** si se ingresa `7`, se debe imprimir:
 
 ```text
@@ -184,7 +171,6 @@ Escriba un programa que pida un número **N** e imprima en pantalla su tabla de 
 ### Ejercicio 12.
 
 Escriba un programa que pida un número **N** e imprima todas las potencias desde **N^1** hasta **N^5**.
-
 **Ejemplo:** si se ingresa `3`, se debe imprimir:
 
 ```text
@@ -198,7 +184,6 @@ Escriba un programa que pida un número **N** e imprima todas las potencias desd
 ### Ejercicio 13.
 
 Escriba un programa que pida un número **N** e imprima todos los divisores de **N**.
-
 **Ejemplo:** si se ingresa `4`, se debe imprimir:
 
 ```text
@@ -211,7 +196,6 @@ Los divisores de 4 son:
 ### Ejercicio 14.
 
 Escriba un programa que imprima dos columnas paralelas, una con los números del `1` al `50` y otra con los números del `50` al `1`.
-
 **Ejemplo:** las primeras líneas a imprimir serán:
 
 ```text
@@ -223,7 +207,6 @@ Escriba un programa que imprima dos columnas paralelas, una con los números del
 ### Ejercicio 15.
 
 Escriba un programa que pida constantemente números hasta que se ingrese el número cero e imprima en pantalla la suma de todos los números ingresados.
-
 **Ejemplo:** si se ingresan `1`, `2`, `3`, `0`, se debe imprimir:
 
 ```text
@@ -233,7 +216,6 @@ El resultado de la sumatoria es: 6
 ### Ejercicio 16.
 
 Escriba un programa que pida constantemente números hasta que se ingrese el número cero e imprima en pantalla el promedio de los números ingresados (excluyendo el cero).
-
 **Ejemplo:** si se ingresan `1`, `2`, `3`, `0`, se debe imprimir:
 
 ```text
@@ -243,7 +225,6 @@ El promedio es: 2
 ### Ejercicio 17.
 
 Escriba un programa que pida constantemente números hasta que se ingrese el número cero e imprima en pantalla el mayor de todos los números ingresados.
-
 **Ejemplo:** si se ingresan `1`, `2`, `3`, `0`, se debe imprimir:
 
 ```text
@@ -253,7 +234,6 @@ El numero mayor fue: 3
 ### Ejercicio 18.
 
 Escriba un programa que pida un número **N** e imprima si es o no un cuadrado perfecto.
-
 **Ejemplo:** si se ingresa `9`, se debe imprimir:
 
 ```text
@@ -269,7 +249,6 @@ Y si se ingresa `8`, se debe imprimir:
 ### Ejercicio 19.
 
 Escriba un programa que pida un número **N** e imprima si es o no un número primo.
-
 **Ejemplo:** si se ingresa `7`, se debe imprimir:
 
 ```text
@@ -285,7 +264,6 @@ Y si se ingresa `8`, se debe imprimir:
 ### Ejercicio 20.
 
 Escriba un programa que pida un número **N** e imprima si es o no un palíndromo (igual de derecha a izquierda que de izquierda a derecha).
-
 **Ejemplo:** si se ingresa `121`, se debe imprimir:
 
 ```text
@@ -301,7 +279,6 @@ Y si se ingresa `123`, se debe imprimir:
 ### Ejercicio 21.
 
 Escriba un programa que pida un carácter **C**. Si es una letra, la debe convertir de mayúscula a minúscula y viceversa e imprimirla.
-
 **Ejemplo:** si se ingresa `B`, se debe imprimir:
 
 ```text
@@ -317,7 +294,6 @@ Letra convertida: K
 ### Ejercicio 22.
 
 Escriba un programa que pida una cantidad entera de segundos y la imprima en formato `horas:minutos:segundos`.
-
 **Ejemplo:** si se ingresa `7777`, se debe imprimir:
 
 ```text
@@ -327,7 +303,6 @@ Escriba un programa que pida una cantidad entera de segundos y la imprima en for
 ### Ejercicio 23.
 
 Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el mínimo común múltiplo entre los dos.
-
 **Ejemplo:** si se ingresan `4` y `6`, se debe imprimir:
 
 ```text
@@ -337,7 +312,6 @@ El MCM de 4 y 6 es: 12
 ### Ejercicio 24.
 
 Escriba un programa que pida un número entero e imprima un cuadrado de dicho tamaño. Los bordes del cuadrado deben estar hechos con el carácter `+` y el interior debe estar vacío.
-
 **Ejemplo:** si se ingresa `4`, se debe imprimir:
 
 ```text
@@ -350,7 +324,6 @@ Escriba un programa que pida un número entero e imprima un cuadrado de dicho ta
 ### Ejercicio 25.
 
 Escriba un programa que pida un número **N** e imprima en pantalla la cantidad de dígitos de **N**.
-
 **Ejemplo:** si se ingresa `1234`, se debe imprimir:
 
 ```text
@@ -360,7 +333,6 @@ Escriba un programa que pida un número **N** e imprima en pantalla la cantidad 
 ### Ejercicio 26.
 
 Escriba un programa que pida tres números e imprima el tipo de triángulo (isósceles, equilátero, escaleno) que se formará, si sus lados tienen la longitud definida por los números ingresados. Tenga en cuenta el caso en que los números ingresados no forman un triángulo.
-
 **Ejemplo:** si se ingresan `3`, `3` y `5`, se debe imprimir:
 
 ```text
@@ -376,7 +348,6 @@ Las longitudes ingresadas no forman un triangulo.
 ### Ejercicio 27.
 
 Escriba un programa que actúe como una calculadora con operaciones de suma, resta, multiplicación y división. El usuario debe ingresar los operandos y la operación a realizar.
-
 **Ejemplo:** si se ingresan `3`, `+` y `5`, se debe imprimir:
 
 ```text
@@ -392,7 +363,6 @@ Escriba un programa que encuentre el valor aproximado de pi en base a la siguien
 ```
 
 El usuario debe ingresar el número de elementos usados en la aproximación.
-
 **Ejemplo:** si se ingresa `3`:
 
 ```text
@@ -423,9 +393,7 @@ Escriba un programa que genere un número aleatorio **A** (entre `0` y `100`) y 
 
 ### Problema 2.
 
-Se necesita un programa que permita determinar la mínima combinación de billetes y monedas para una cantidad de dinero determinada. Los billetes en circulación son de `$50.000`, `$20.000`, `$10.000`, `$5.000`, `$2.000` y `$1.000`, y las monedas son de `$500`, `$200`, `$100` y `$50`.
-
-Hacer un programa que entregue el número de billetes y monedas de cada denominación para completar la cantidad deseada. Si por medio de los billetes y monedas disponibles no se puede lograr la cantidad deseada, el sistema deberá decir lo que resta para lograrla.
+Se necesita un programa que permita determinar la mínima combinación de billetes y monedas para una cantidad de dinero determinada. Los billetes en circulación son de `$50.000`, `$20.000`, `$10.000`, `$5.000`, `$2.000` y `$1.000`, y las monedas son de `$500`, `$200`, `$100` y `$50`. Hacer un programa que entregue el número de billetes y monedas de cada denominación para completar la cantidad deseada. Si por medio de los billetes y monedas disponibles no se puede lograr la cantidad deseada, el sistema deberá decir lo que resta para lograrla.
 
 **Ejemplo:** si se ingresa `47810`, el programa debe imprimir:
 
@@ -445,9 +413,7 @@ Faltante: 10
 ---
 ### Problema 4.
 
-Escriba un programa para leer dos números enteros con el siguiente significado: el valor del primer número representa una hora del día en un reloj de 24 horas, de modo que `1245` representa las doce y cuarenta y cinco de la tarde. El segundo entero representa un tiempo de duración de la misma manera, por lo que `345` representa tres horas y 45 minutos.
-
-El programa debe sumar esta duración al primer número, y el resultado será impreso en la misma notación. En este caso, `1630`, que es el tiempo de 3 horas y 45 minutos después de `12:45`.
+Escriba un programa para leer dos números enteros con el siguiente significado: el valor del primer número representa una hora del día en un reloj de 24 horas, de modo que `1245` representa las doce y cuarenta y cinco de la tarde. El segundo entero representa un tiempo de duración de la misma manera, por lo que `345` representa tres horas y 45 minutos. El programa debe sumar esta duración al primer número, y el resultado será impreso en la misma notación. En este caso, `1630`, que es el tiempo de 3 horas y 45 minutos después de `12:45`.
 
 **Nota:** el formato de salida debe ser:
 
@@ -468,7 +434,6 @@ Escriba un programa que encuentre el valor aproximado del número de Euler en ba
 ```text
 e = 1/0! + 1/1! + 1/2! + 1/3! + 1/4! + 1/5! + ...
 ```
-
 El usuario debe ingresar el número de elementos usados en la aproximación.
 
 **Ejemplo:** si se ingresa `3`:
@@ -487,13 +452,11 @@ e es aproximadamente: 2.5
 ### Problema 8.
 
 Escriba un programa que reciba tres números **a**, **b** y **c**, y calcule la suma de todos los múltiplos de **a** y **b** que sean menores a **c**. Tenga en cuenta no sumar dos veces los múltiplos comunes.
-
 **Ejemplo:** para `a = 3`, `b = 5` y `c = 10`, se sumarán:
 
 ```text
 3 + 6 + 9 + 5 = 23
 ```
-
 Para `a = 5`, `b = 7` y `c = 36`, se sumarán:
 
 ```text
@@ -505,14 +468,12 @@ Para `a = 5`, `b = 7` y `c = 36`, se sumarán:
 ```text
 m11 + m12 + m13 + ... + m21 + m22 + m23... = sumatoria
 ```
-
 Donde `m11` representa el primer múltiplo de **a** y así sucesivamente. `m21` representa el primer múltiplo de **b** y así sucesivamente.
 
 ---
 ### Problema 10.
 
 Escriba un programa que reciba un número **n** e imprima el enésimo número primo.
-
 **Ejemplo:** si se recibe `4`, el programa debe imprimir:
 
 ```text
@@ -523,7 +484,6 @@ El primo numero 4 es: 7
 ### Problema 12.
 
 Escriba un programa que calcule el máximo factor primo de un número.
-
 **Ejemplo:** si se recibe `33`, el programa debe imprimir:
 
 ```text
@@ -534,9 +494,7 @@ El mayor factor primo de 33 es: 11
 ### Problema 14.
 
 Un número palíndromo es igual de derecha a izquierda y de izquierda a derecha.
-
 **Ejemplo:** `969`.
-
 Escriba un programa que calcule el número palíndromo más grande que se puede obtener como una multiplicación de números de 3 dígitos.
 
 **Ejemplo:** una de las posibles respuestas es:
@@ -555,11 +513,8 @@ Escriba un programa que calcule el número palíndromo más grande que se puede 
 ### Problema 16.
 
 La serie de Collatz se conforma con la siguiente regla: sea `n` un elemento de la serie. Si `n` es par, el siguiente elemento es `n/2`, y si `n` es impar, el siguiente elemento es `3n+1`.
-
 Escriba un programa que reciba un número **k** y calcule cuál es el elemento inicial **j** (semilla), menor que **k**, que produce la serie más larga y diga cuántos términos tiene la serie.
-
 **Nota:** la serie termina al llegar a un elemento cuyo valor sea `1`.
-
 **Ejemplo:** para la semilla `13`:
 
 ```text
@@ -567,13 +522,10 @@ Escriba un programa que reciba un número **k** y calcule cuál es el elemento i
 ```
 
 **Nota:** la salida del programa debe ser:
-
 ```text
 La serie mas larga es con la semilla: j, teniendo m terminos.
 ```
-
 **Otra nota:** se le dará una bonificación si imprime la serie.
-
 
 </details>
 
@@ -584,9 +536,7 @@ La serie mas larga es con la semilla: j, teniendo m terminos.
 ### Problema 1.
 
 Escriba un programa que identifique si un carácter ingresado es una vocal, una consonante o ninguna de las dos, e imprima un mensaje según el caso.
-
 **Nota:** el formato de salida debe ser:
-
 ```text
 no es una letra.
 a es una vocal.
@@ -595,7 +545,6 @@ a es una vocal.
 ### Problema 3.
 
 Escriba un programa que deba leer un mes y un día de dicho mes para luego decir si esa combinación de mes y día es válida. El caso más especial es el `29 de febrero`; en dicho caso imprimir `posiblemente año bisiesto`.
-
 **Nota:** el formato de salida debe ser:
 
 ```text
@@ -620,29 +569,23 @@ Escriba un programa que muestre el siguiente patrón centrado en la pantalla, fo
 ```
 
 El tamaño del patrón estará determinado por un número entero impar que ingrese el usuario.
-
 **Ejemplo:** en el patrón mostrado, el tamaño de la figura es `7`.
 
 ### Problema 7.
 
-En la serie de Fibonacci, cada número es la suma de los 2 anteriores e inicia con `1` y `1`.
-
-**Ejemplo:**
+En la serie de Fibonacci, cada número es la suma de los 2 anteriores e inicia con `1` y `1`. **Ejemplo:**
 
 ```text
 1, 1, 2, 3, 5, 8, ...
 ```
 
 Escriba un programa que reciba un número **n** y halle la suma de todos los números pares en la serie de Fibonacci menores a **n**.
-
 **Ejemplo:** si se ingresa `10`, se realizará la suma de:
 
 ```text
 2 + 8 = 10
 ```
-
 **Nota:** el formato de salida debe ser:
-
 ```text
 El resultado de la suma es: 10
 ```
@@ -650,15 +593,11 @@ El resultado de la suma es: 10
 ### Problema 9.
 
 Escriba un programa que pida un número entero **N** e imprima el resultado de la suma de todos sus dígitos elevados a sí mismos.
-
 **Ejemplo:** si se ingresa `1223`, el resultado será:
-
 ```text
 1^1 + 2^2 + 2^2 + 3^3 = 36
 ```
-
 **Nota:** la salida del programa debe ser:
-
 ```text
 El resultado de la suma es: 36.
 ```
@@ -666,9 +605,7 @@ El resultado de la suma es: 36.
 ### Problema 11.
 
 Escriba un programa que reciba un número y calcule el mínimo común múltiplo de todos los números enteros entre `1` y el número ingresado.
-
 **Ejemplo:** si se recibe `4`, el programa debe imprimir:
-
 ```text
 El minimo comun multiplo es: 12.
 ```
@@ -676,9 +613,7 @@ El minimo comun multiplo es: 12.
 ### Problema 13.
 
 Escriba un programa que reciba un número y calcule la suma de todos los números primos menores que el número ingresado.
-
 **Ejemplo:** si se recibe `10`, el programa debe imprimir:
-
 ```text
 El resultado de la suma es: 17.
 ```
@@ -725,24 +660,16 @@ Empezando con el número `1` y moviéndose hacia la izquierda y en sentido horar
   </tr>
 </table>
 
-En el caso de esta espiral de `5x5`, la suma de los números en la diagonal es `101`.
-
-Escriba un programa que reciba un número impar **n** y calcule la suma de los números en la diagonal de una espiral de `nxn`.
-
+En el caso de esta espiral de `5x5`, la suma de los números en la diagonal es `101`. Escriba un programa que reciba un número impar **n** y calcule la suma de los números en la diagonal de una espiral de `nxn`.
 **Nota:** la salida del programa debe ser:
-
 ```text
 En una espiral de 5x5, la suma es: 101.
 ```
-
 **Otra nota:** se le dará una bonificación si imprime la espiral.
 
 ### Problema 17.
 
-La secuencia de números triangulares se forma al sumar su posición en el arreglo con el valor del número anterior:
-
-`1, 1 + 2 = 3, 3 + 3 = 6, 6 + 4 = 10, 10 + 5 = 15, 15 + 6 = 21, 21 + 7 = 28, ...`
-
+La secuencia de números triangulares se forma al sumar su posición en el arreglo con el valor del número anterior: `1, 1 + 2 = 3, 3 + 3 = 6, 6 + 4 = 10, 10 + 5 = 15, 15 + 6 = 21, 21 + 7 = 28, ...`
 Si listamos los números triangulares y sus divisores tenemos:
 
 `1: 1`  
@@ -753,17 +680,8 @@ Si listamos los números triangulares y sus divisores tenemos:
 `21: 1, 3, 7, 21`  
 `28: 1, 2, 4, 7, 14, 28`
 
-Se observa que **28 es el primer número triangular que tiene más de 5 divisores**.
-
-Escriba un programa que reciba un número **K** y calcule cuál es el primer número triangular que tiene más de **K divisores**.
-
-**Tip:** El enésimo número triangular se puede representar como:
-
-`n * (n + 1) / 2`
-
+Se observa que **28 es el primer número triangular que tiene más de 5 divisores**. Escriba un programa que reciba un número **K** y calcule cuál es el primer número triangular que tiene más de **K divisores**.**Tip:** El enésimo número triangular se puede representar como: `n * (n + 1) / 2`
 **Nota:** La salida del programa debe ser:
-
 ```text
 El numero es: 28 que tiene 6 divisores.
-
 </details>
