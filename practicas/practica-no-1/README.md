@@ -1,3 +1,5 @@
+<div align="center">
+  
 <table>
   <tr>
     <td width="75%" align="center">
@@ -29,7 +31,7 @@
 
 ## 2. Ejercicios
 
-### Ejercicio 1
+### Ejercicio 1.
 
 Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el residuo de la división **A/B**.
 
@@ -37,3 +39,6 @@ Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el
 
 ```text
 El residuo de la division 8/3 es: 2
+```
+
+**Nota:** Nótese que la palabra division no tiene tilde. Esto no es un error tipográfico, sino que se debe a que no se pueden imprimir correctamente las tildes en la terminal. De ahora en adelante, todos los ejemplos de salida contendrán el mismo error tipográfico.
