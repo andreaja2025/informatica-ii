@@ -24,3 +24,17 @@ El trabajo se centra especialmente en tres pilares:
 - **Programación en C++**
 - **Manejo eficiente de la memoria**
 - **Programación Orientada a Objetos (POO)**
+
+## *Sobre mí*
+**Andrea Arias Cantillo**
+Ingeniería Electrónica
+
+Me gusta aprender y desarrollar soluciones tecnológicas que puedan ir más
+allá de la programación y tener una aplicación real. Me interesan
+especialmente los proyectos con **impacto social** y aquellos que buscan
+resolver necesidades o mejorar procesos en la **industria**.
+
+Actualmente estoy fortaleciendo mis conocimientos en programación y
+desarrollo de soluciones aplicadas a la ingeniería.
+
+**Perfil profesional:** [LinkedIn](https://www.linkedin.com/in/andrea-arias-cantillo/)
