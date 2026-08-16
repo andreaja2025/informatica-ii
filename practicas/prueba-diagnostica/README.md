@@ -68,6 +68,7 @@ retorne una lista con los **números perfectos** en ese rango.
 
 **Solución** 
 [Ver solución 2. Medio](medio.py)
+
 ---
 ### 3. Sobresaliente
 **Calcular el promedio por columnas en una matriz desde un archivo**.
