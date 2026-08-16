@@ -36,7 +36,7 @@ El trabajo se centra especialmente en tres pilares:
   <tr>
     <td>0</td>
     <td>Prueba diagnóstica</td>
-    <td><a href="./prueba-diagnostica/README.md">Prueba Diagnóstica</a></td>
+    <td><a href="./practicas/prueba-diagnostica/README.md">Prueba Diagnóstica</a></td>
   </tr>
   <tr>
     <td>1</td>
