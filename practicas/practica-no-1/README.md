@@ -32,7 +32,7 @@
 ---
 
 <details>
-<summary><strong>2. Ejercicios</strong></summary>
+<summary><h2>2. Ejercicios</h2></summary>>
 
 ### Ejercicio 1.
 
@@ -417,9 +417,9 @@ Escriba un programa que genere un número aleatorio **A** (entre `0` y `100`) y 
 **Nota:** Para generar el número aleatorio use la función `rand()` de la librería `<cstdlib>`. Recuerde convertirlo al rango `(0, 100)`.
 </details>
 
----
+
 <details>
-<summary><strong>3. Problemas (pares)</strong></summary>
+<summary><h2>3. Problemas (pares)</h2></summary>
 
 ### Problema 2.
 
@@ -573,14 +573,13 @@ La serie mas larga es con la semilla: j, teniendo m terminos.
 ```
 
 **Otra nota:** se le dará una bonificación si imprime la serie.
----
 
 
 </details>
----
+
 
 <details>
-<summary><strong>4. Problemas (impares)</strong></summary>
+<summary><h2>4. Problemas (impares)</h2></summary>
 
 
 
