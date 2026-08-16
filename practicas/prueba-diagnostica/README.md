@@ -6,7 +6,7 @@
       <h2>UNIVERSIDAD DE ANTIOQUIA</h2>
       <h3>Departamento de Ingeniería Electrónica y Telecomunicaciones</h3>
       <h2>INFORMÁTICA II</h2>
-      <h3>Práctica No. 1</h3>
+      <h3>Prueba Diagnóstica</h3>
     </td>
     <td width="25%" align="center">
       <img src="../../assets/Logoudea-vertical.jpg" alt="Logo Universidad de Antioquia" width="200">
@@ -17,7 +17,7 @@
 </div>
 
 ---
-### Básico 
+### 1. Básico 
 
 **Búsqueda de nombres por inicial.**
 
@@ -34,7 +34,7 @@ def generar_nombres():
 
 nombres = generar_nombres()
 ```
-# TODO: Pedir una letra al usuario y filtrar los nombres que comiencen con esa letra
+#TODO: Pedir una letra al usuario y filtrar los nombres que comiencen con esa letra
 **Ejemplo de entrada y salida**
 
 ```text
@@ -57,10 +57,11 @@ retorne una lista con los **números perfectos** en ese rango.
 ```text
 >>> numeros_perfectos(1, 30)
 [6, 28]
+```
 **Explicación**
 - **6** es perfecto porque `1 + 2 + 3 = 6`.
 - **28** es perfecto porque `1 + 2 + 4 + 7 + 14 = 28`.
-```
+
 ---
 ### Sobresaliente
 **Calcular el promedio por columnas en una matriz desde un archivo**.
@@ -83,6 +84,6 @@ por espacios.
 5.0 10.0 16.0 20.0 26.0 36.0
 ```
 **Reglas:**
-● La matriz tendrá dimensiones desconocidas (puede ser de cualquier tamaño).
-● Cada fila del archivo de salida debe contener el promedio correspondiente.
-● Se permite el uso de funciones para manipular strings `(split(), strip(), etc.).`
+- La matriz tendrá dimensiones desconocidas (puede ser de cualquier tamaño).
+- Cada fila del archivo de salida debe contener el promedio correspondiente.
+- Se permite el uso de funciones para manipular strings `(split(), strip(), etc.).`
