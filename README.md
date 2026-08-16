@@ -26,6 +26,9 @@ El trabajo se centra especialmente en tres pilares:
 - **Programación Orientada a Objetos (POO)**
 
 ## *Sobre mí*
+<p align="center">
+  <img src="./assets/perfil.jpeg" alt="Foto de perfil de Andrea" width="220">
+</p>
 **Andrea Arias Cantillo**
 Ingeniería Electrónica
 
