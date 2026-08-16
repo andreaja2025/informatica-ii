@@ -34,7 +34,8 @@ def generar_nombres():
 
 nombres = generar_nombres()
 ```
-#TODO: Pedir una letra al usuario y filtrar los nombres que comiencen con esa letra
+#TODO: Pedir una letra al usuario y filtrar los nombres que comiencen con esa letra.
+
 **Ejemplo de entrada y salida**
 
 ```text
@@ -45,7 +46,7 @@ Javier
 ...
 ```
 ---
-### Medio
+### 2. Medio
 **Determinar los números perfectos en un intervalo:** un **número perfecto** es
 aquel cuya suma de sus divisores propios (excluyendo el mismo número) es
 igual al número original.
@@ -63,7 +64,7 @@ retorne una lista con los **números perfectos** en ese rango.
 - **28** es perfecto porque `1 + 2 + 4 + 7 + 14 = 28`.
 
 ---
-### Sobresaliente
+### 3. Sobresaliente
 **Calcular el promedio por columnas en una matriz desde un archivo**.
 Se tiene un archivo de texto que contiene una matriz de números enteros.
 Cada línea del archivo representa una fila de la matriz, con valores separados
