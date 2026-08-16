@@ -31,7 +31,8 @@
 
 ---
 
-## 2. Ejercicios
+<details>
+<summary><strong>2. Ejercicios</strong></summary>
 
 ### Ejercicio 1.
 
@@ -414,3 +415,173 @@ Escriba un programa que adivine un número **A** (entre `0` y `100`) seleccionad
 Escriba un programa que genere un número aleatorio **A** (entre `0` y `100`) y le pida al usuario que lo adivine. El usuario ingresa un número **B** y el programa le dirá si **B** es mayor o menor que **A**. Esto se repetirá hasta que el usuario adivine el número. En ese momento, el programa le dirá el número de intentos que tardó el usuario en adivinar el número.
 
 **Nota:** Para generar el número aleatorio use la función `rand()` de la librería `<cstdlib>`. Recuerde convertirlo al rango `(0, 100)`.
+</details>
+
+---
+<details>
+<summary><strong>3. Problemas (pares)</strong></summary>
+
+### Problema 2.
+
+Se necesita un programa que permita determinar la mínima combinación de billetes y monedas para una cantidad de dinero determinada. Los billetes en circulación son de `$50.000`, `$20.000`, `$10.000`, `$5.000`, `$2.000` y `$1.000`, y las monedas son de `$500`, `$200`, `$100` y `$50`.
+
+Hacer un programa que entregue el número de billetes y monedas de cada denominación para completar la cantidad deseada. Si por medio de los billetes y monedas disponibles no se puede lograr la cantidad deseada, el sistema deberá decir lo que resta para lograrla.
+
+**Ejemplo:** si se ingresa `47810`, el programa debe imprimir:
+
+```text
+50000 : 0
+20000 : 2
+10000 : 0
+5000 : 1
+2000 : 1
+1000 : 0
+500 : 1
+200 : 1
+100 : 1
+50 : 0
+Faltante: 10
+```
+---
+### Problema 4.
+
+Escriba un programa para leer dos números enteros con el siguiente significado: el valor del primer número representa una hora del día en un reloj de 24 horas, de modo que `1245` representa las doce y cuarenta y cinco de la tarde. El segundo entero representa un tiempo de duración de la misma manera, por lo que `345` representa tres horas y 45 minutos.
+
+El programa debe sumar esta duración al primer número, y el resultado será impreso en la misma notación. En este caso, `1630`, que es el tiempo de 3 horas y 45 minutos después de `12:45`.
+
+**Nota:** el formato de salida debe ser:
+
+```text
+La hora es 1630.
+```
+
+Otra nota: se debe imprimir un mensaje como el siguiente cuando uno de los datos ingresados sea inválido:
+
+```text
+1560 es un tiempo invalido.
+```
+---
+### Problema 6.
+
+Escriba un programa que encuentre el valor aproximado del número de Euler en base a la siguiente suma infinita:
+
+```text
+e = 1/0! + 1/1! + 1/2! + 1/3! + 1/4! + 1/5! + ...
+```
+
+El usuario debe ingresar el número de elementos usados en la aproximación.
+
+**Ejemplo:** si se ingresa `3`:
+
+```text
+e = 1/0! + 1/1! + 1/2! = 2.5
+```
+
+**Nota:** el formato de salida debe ser:
+
+```text
+e es aproximadamente: 2.5
+```
+
+---
+### Problema 8.
+
+Escriba un programa que reciba tres números **a**, **b** y **c**, y calcule la suma de todos los múltiplos de **a** y **b** que sean menores a **c**. Tenga en cuenta no sumar dos veces los múltiplos comunes.
+
+**Ejemplo:** para `a = 3`, `b = 5` y `c = 10`, se sumarán:
+
+```text
+3 + 6 + 9 + 5 = 23
+```
+
+Para `a = 5`, `b = 7` y `c = 36`, se sumarán:
+
+```text
+5 + 10 + 15 + 20 + 25 + 30 + 35 + 7 + 14 + 21 + 28 = 210
+```
+
+**Nota:** el formato de salida debe ser:
+
+```text
+m11 + m12 + m13 + ... + m21 + m22 + m23... = sumatoria
+```
+
+Donde `m11` representa el primer múltiplo de **a** y así sucesivamente. `m21` representa el primer múltiplo de **b** y así sucesivamente.
+
+---
+### Problema 10.
+
+Escriba un programa que reciba un número **n** e imprima el enésimo número primo.
+
+**Ejemplo:** si se recibe `4`, el programa debe imprimir:
+
+```text
+El primo numero 4 es: 7
+```
+---
+
+### Problema 12.
+
+Escriba un programa que calcule el máximo factor primo de un número.
+
+**Ejemplo:** si se recibe `33`, el programa debe imprimir:
+
+```text
+El mayor factor primo de 33 es: 11
+```
+---
+
+### Problema 14.
+
+Un número palíndromo es igual de derecha a izquierda y de izquierda a derecha.
+
+**Ejemplo:** `969`.
+
+Escriba un programa que calcule el número palíndromo más grande que se puede obtener como una multiplicación de números de 3 dígitos.
+
+**Ejemplo:** una de las posibles respuestas es:
+
+```text
+143*777=111111
+```
+
+**Nota:** la salida del programa debe ser:
+
+```text
+143*777=111111
+```
+---
+
+### Problema 16.
+
+La serie de Collatz se conforma con la siguiente regla: sea `n` un elemento de la serie. Si `n` es par, el siguiente elemento es `n/2`, y si `n` es impar, el siguiente elemento es `3n+1`.
+
+Escriba un programa que reciba un número **k** y calcule cuál es el elemento inicial **j** (semilla), menor que **k**, que produce la serie más larga y diga cuántos términos tiene la serie.
+
+**Nota:** la serie termina al llegar a un elemento cuyo valor sea `1`.
+
+**Ejemplo:** para la semilla `13`:
+
+```text
+13, 40, 20, 10, 5, 16, 8, 4, 2, 1
+```
+
+**Nota:** la salida del programa debe ser:
+
+```text
+La serie mas larga es con la semilla: j, teniendo m terminos.
+```
+
+**Otra nota:** se le dará una bonificación si imprime la serie.
+---
+
+
+</details>
+---
+
+<details>
+<summary><strong>4. Problemas (impares)</strong></summary>
+
+
+
+</details>
