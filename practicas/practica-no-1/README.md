@@ -160,7 +160,6 @@ Multiplos de 33 menores que 100:
 66
 99
 ```
-```
 ---
 ### Ejercicio 11.
 
@@ -407,9 +406,8 @@ pi es aproximadamente: 3.46667
 ---
 ### Ejercicio 29.
 
-Escriba un programa que adivine un número **A** (entre `0` y `100`) seleccionado por el usuario (el número **NO** se ingresa al programa). El programa imprimirá en pantalla un número **B** y el usuario usará los símbolos `>`, `<` y `=` para indicarle al programa si **B** es mayor, menor o igual que **A**.
+Escriba un programa que adivine un número **A** (entre `0` y `100`) seleccionado por el usuario (el número **NO** se ingresa al programa). El programa imprimirá en pantalla un número **B** y el usuario usará los símbolos `>`, `<` y `=` para indicarle al programa si **B** es mayor, menor o igual que **A**. El programa imprimirá un nuevo número **B**, con base en el símbolo ingresado por el usuario, y repetirá el proceso hasta acertar el número seleccionado por el usuario.
 
-El programa imprimirá un nuevo número **B**, con base en el símbolo ingresado por el usuario, y repetirá el proceso hasta acertar el número seleccionado por el usuario.
 ---
 ### Ejercicio 30.
 
