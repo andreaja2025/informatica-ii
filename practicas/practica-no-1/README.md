@@ -71,7 +71,7 @@ Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el
 El mayor es 7
 ```
 **Solución** 
-[Ver solución](./ejercicios/ejercicio3/main.cpp)
+[Ver solución 3](./ejercicios/ejercicio3/main.cpp)
 
 ---
 ### Ejercicio 4.
@@ -83,7 +83,7 @@ Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el
 El menor es 3
 ```
 **Solución** 
-[Ver solución](./ejercicios/ejercicio4/main.cpp)
+[Ver solución 4](./ejercicios/ejercicio4/main.cpp)
 
 ---
 ### Ejercicio 5.
