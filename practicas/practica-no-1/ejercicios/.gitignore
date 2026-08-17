@@ -1,0 +1,30 @@
+# Qt Creator
+.qtcreator/
+*.user
+*.user.*
+
+# CMake
+build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compilados
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+
+# Archivos temporales
+*~
+*.autosave
+*.tmp
+*.bak
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
