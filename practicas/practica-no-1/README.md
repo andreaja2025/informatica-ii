@@ -46,7 +46,7 @@ El residuo de la division 8/3 es: 2
 **Nota:** Nótese que la palabra division no tiene tilde. Esto no es un error tipográfico, sino que se debe a que no se pueden imprimir correctamente las tildes en la terminal. De ahora en adelante, todos los ejemplos de salida contendrán el mismo error tipográfico.
 
 **Solución** 
-[Ver solución 1. Basico](./ejercicios/problema1/main.cpp)
+[Ver solución 1](./ejercicios/problema1/main.cpp)
 
 ---
 
@@ -59,7 +59,7 @@ Escriba un programa que pida un número **N** e imprima en pantalla si es par o 
 5 es impar
 ```
 **Solución** 
-[Ver solución 2. Basico](./ejercicios/ejercicio2/main.cpp)
+[Ver solución 2](./ejercicios/ejercicio2/main.cpp)
 
 ---
 ### Ejercicio 3.
@@ -71,7 +71,7 @@ Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el
 El mayor es 7
 ```
 **Solución** 
-[Ver solución 3. Basico](./ejercicios/ejercicio3/main.cpp)
+[Ver solución](./ejercicios/ejercicio3/main.cpp)
 
 ---
 ### Ejercicio 4.
@@ -83,7 +83,7 @@ Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el
 El menor es 3
 ```
 **Solución** 
-[Ver solución 4. Basico](./ejercicios/ejercicio4/main.cpp)
+[Ver solución](./ejercicios/ejercicio4/main.cpp)
 
 ---
 ### Ejercicio 5.
@@ -101,7 +101,7 @@ Si se ingresan `7` y `3`, se debe imprimir:
 7/3=2
 ```
 **Solución** 
-[Ver solución 5. Basico](./ejercicios/ejercicio5/main.cpp)
+[Ver solución 5](./ejercicios/ejercicio5/main.cpp)
 
 ---
 ### Ejercicio 6.
