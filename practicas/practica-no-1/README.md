@@ -112,6 +112,9 @@ Escriba un programa que pida dos números **A** y **B** e imprima en pantalla la
 ```text
 5^3=125
 ```
+**Solución** 
+[Ver solución 6](./ejercicios/ejercicio6/main.cpp)
+
 ---
 ### Ejercicio 7.
 
@@ -127,6 +130,9 @@ por lo que se debe imprimir:
 ```text
 La sumatoria desde 0 hasta 5 es: 15
 ```
+**Solución** 
+[Ver solución 7](./ejercicios/ejercicio7/main.cpp)
+
 ---
 ### Ejercicio 8.
 
@@ -141,6 +147,10 @@ por lo que se debe imprimir:
 ```text
 5!=120
 ```
+
+**Solución** 
+[Ver solución 8](./ejercicios/ejercicio8/main.cpp)
+
 ---
 ### Ejercicio 9.
 
@@ -152,6 +162,9 @@ Escriba un programa que pida un número **N** e imprima el perímetro y área de
 Perimetro:6.2832
 Area:3.1416
 ```
+**Solución** 
+[Ver solución 9](./ejercicios/ejercicio9/main.cpp)
+
 ---
 ### Ejercicio 10.
 
@@ -164,6 +177,10 @@ Multiplos de 33 menores que 100:
 66
 99
 ```
+
+**Solución** 
+[Ver solución 10](./ejercicios/ejercicio10/main.cpp)
+
 ---
 ### Ejercicio 11.
 
@@ -182,6 +199,9 @@ Escriba un programa que pida un número **N** e imprima en pantalla su tabla de 
 9x7=63
 10x7=70
 ```
+**Solución** 
+[Ver solución 11](./ejercicios/ejercicio11/main.cpp)
+
 ---
 ### Ejercicio 12.
 
