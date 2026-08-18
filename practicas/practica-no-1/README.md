@@ -215,6 +215,9 @@ Escriba un programa que pida un número **N** e imprima todas las potencias desd
 3^4=81
 3^5=243
 ```
+
+**Solución** 
+[Ver solución 12](./ejercicios/ejercicio12/main.cpp)
 ---
 ### Ejercicio 13.
 
@@ -227,6 +230,9 @@ Los divisores de 4 son:
 2
 4
 ```
+**Solución** 
+[Ver solución 13](./ejercicios/ejercicio13/main.cpp)
+
 ---
 ### Ejercicio 14.
 
@@ -238,6 +244,9 @@ Escriba un programa que imprima dos columnas paralelas, una con los números del
 2    49
 3    48
 ```
+**Solución** 
+[Ver solución 14](./ejercicios/ejercicio14/main.cpp)
+
 ---
 ### Ejercicio 15.
 
@@ -247,6 +256,9 @@ Escriba un programa que pida constantemente números hasta que se ingrese el nú
 ```text
 El resultado de la sumatoria es: 6
 ```
+**Solución** 
+[Ver solución 15](./ejercicios/ejercicio15/main.cpp)
+
 ---
 ### Ejercicio 16.
 
@@ -256,6 +268,9 @@ Escriba un programa que pida constantemente números hasta que se ingrese el nú
 ```text
 El promedio es: 2
 ```
+**Solución** 
+[Ver solución 16](./ejercicios/ejercicio16/main.cpp)
+
 ---
 ### Ejercicio 17.
 
@@ -265,6 +280,9 @@ Escriba un programa que pida constantemente números hasta que se ingrese el nú
 ```text
 El numero mayor fue: 3
 ```
+**Solución** 
+[Ver solución 17](./ejercicios/ejercicio17/main.cpp)
+
 ---
 ### Ejercicio 18.
 
@@ -274,6 +292,9 @@ Escriba un programa que pida un número **N** e imprima si es o no un cuadrado p
 ```text
 9 es un cuadrado perfecto.
 ```
+**Solución** 
+[Ver solución 18](./ejercicios/ejercicio18/main.cpp)
+
 
 Y si se ingresa `8`, se debe imprimir:
 
@@ -295,6 +316,9 @@ Y si se ingresa `8`, se debe imprimir:
 ```text
 8 NO es un numero primo.
 ```
+**Solución** 
+[Ver solución 19](./ejercicios/ejercicio19/main.cpp)
+
 ---
 ### Ejercicio 20.
 
@@ -310,6 +334,9 @@ Y si se ingresa `123`, se debe imprimir:
 ```text
 123 NO es un numero palindromo.
 ```
+**Solución** 
+[Ver solución 20](./ejercicios/ejercicio20/main.cpp)
+
 ---
 ### Ejercicio 21.
 
@@ -325,6 +352,9 @@ Y si se ingresa `k`, se debe imprimir:
 ```text
 Letra convertida: K
 ```
+**Solución** 
+[Ver solución 21](./ejercicios/ejercicio21/main.cpp)
+
 ---
 ### Ejercicio 22.
 
@@ -334,6 +364,9 @@ Escriba un programa que pida una cantidad entera de segundos y la imprima en for
 ```text
 2:9:37
 ```
+**Solución** 
+[Ver solución 22](./ejercicios/ejercicio22/main.cpp)
+
 ---
 ### Ejercicio 23.
 
@@ -343,6 +376,9 @@ Escriba un programa que pida dos números **A** y **B** e imprima en pantalla el
 ```text
 El MCM de 4 y 6 es: 12
 ```
+**Solución** 
+[Ver solución 23](./ejercicios/ejercicio23/main.cpp)
+
 ---
 ### Ejercicio 24.
 
@@ -355,6 +391,9 @@ Escriba un programa que pida un número entero e imprima un cuadrado de dicho ta
 +  +
 ++++
 ```
+**Solución** 
+[Ver solución 24](./ejercicios/ejercicio24/main.cpp)
+
 ---
 ### Ejercicio 25.
 
@@ -364,6 +403,9 @@ Escriba un programa que pida un número **N** e imprima en pantalla la cantidad 
 ```text
 1234 tiene 4 digitos.
 ```
+**Solución** 
+[Ver solución 25](./ejercicios/ejercicio25/main.cpp)
+
 ---
 ### Ejercicio 26.
 
@@ -379,6 +421,9 @@ Y si se ingresan `3`, `3` y `6`, se debe imprimir:
 ```text
 Las longitudes ingresadas no forman un triangulo.
 ```
+**Solución** 
+[Ver solución 26](./ejercicios/ejercicio26/main.cpp)
+
 ---
 ### Ejercicio 27.
 
@@ -388,6 +433,9 @@ Escriba un programa que actúe como una calculadora con operaciones de suma, res
 ```text
 3+5=8
 ```
+**Solución** 
+[Ver solución 27](./ejercicios/ejercicio27/main.cpp)
+
 ---
 ### Ejercicio 28.
 
@@ -409,10 +457,16 @@ por lo que se debe imprimir:
 ```text
 pi es aproximadamente: 3.46667
 ```
+**Solución** 
+[Ver solución 28](./ejercicios/ejercicio28/main.cpp)
+
 ---
 ### Ejercicio 29.
 
 Escriba un programa que adivine un número **A** (entre `0` y `100`) seleccionado por el usuario (el número **NO** se ingresa al programa). El programa imprimirá en pantalla un número **B** y el usuario usará los símbolos `>`, `<` y `=` para indicarle al programa si **B** es mayor, menor o igual que **A**. El programa imprimirá un nuevo número **B**, con base en el símbolo ingresado por el usuario, y repetirá el proceso hasta acertar el número seleccionado por el usuario.
+
+**Solución** 
+[Ver solución 29](./ejercicios/ejercicio29/main.cpp)
 
 ---
 ### Ejercicio 30.
@@ -425,6 +479,9 @@ Escriba un programa que genere un número aleatorio **A** (entre `0` y `100`) y 
 
 <details>
 <summary><h2>3. Problemas (pares)</h2></summary>
+
+**Solución** 
+[Ver solución 30](./ejercicios/ejercicio30/main.cpp)
 
 ### Problema 2.
 
