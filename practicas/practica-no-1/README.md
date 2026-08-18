@@ -475,10 +475,11 @@ Escriba un programa que adivine un número **A** (entre `0` y `100`) seleccionad
 Escriba un programa que genere un número aleatorio **A** (entre `0` y `100`) y le pida al usuario que lo adivine. El usuario ingresa un número **B** y el programa le dirá si **B** es mayor o menor que **A**. Esto se repetirá hasta que el usuario adivine el número. En ese momento, el programa le dirá el número de intentos que tardó el usuario en adivinar el número.
 
 **Nota:** Para generar el número aleatorio use la función `rand()` de la librería `<cstdlib>`. Recuerde convertirlo al rango `(0, 100)`.
-</details>
 
 **Solución** 
 [Ver solución 30](./ejercicios/ejercicio30/main.cpp)
+
+</details>
 
 ---
 
