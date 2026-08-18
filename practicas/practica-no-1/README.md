@@ -218,6 +218,7 @@ Escriba un programa que pida un número **N** e imprima todas las potencias desd
 
 **Solución** 
 [Ver solución 12](./ejercicios/ejercicio12/main.cpp)
+
 ---
 ### Ejercicio 13.
 
@@ -476,12 +477,14 @@ Escriba un programa que genere un número aleatorio **A** (entre `0` y `100`) y 
 **Nota:** Para generar el número aleatorio use la función `rand()` de la librería `<cstdlib>`. Recuerde convertirlo al rango `(0, 100)`.
 </details>
 
+**Solución** 
+[Ver solución 30](./ejercicios/ejercicio30/main.cpp)
+
+---
 
 <details>
 <summary><h2>3. Problemas (pares)</h2></summary>
 
-**Solución** 
-[Ver solución 30](./ejercicios/ejercicio30/main.cpp)
 
 ### Problema 2.
 
