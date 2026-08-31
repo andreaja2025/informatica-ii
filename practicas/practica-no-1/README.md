@@ -488,6 +488,7 @@ Se sustenta los ejercicios pares, se requiere que el código contenga Menú y va
 
 **Solución** 
 [Ver solución sustentación](./ejercicios/problemas_pares/main.cpp)
+</details>
 
 
 <details>
