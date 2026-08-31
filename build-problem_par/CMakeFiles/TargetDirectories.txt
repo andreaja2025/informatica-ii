@@ -1,0 +1,7 @@
+C:/Users/andre/informatica-ii/build-problem_par/CMakeFiles/problem_par.dir
+C:/Users/andre/informatica-ii/build-problem_par/CMakeFiles/edit_cache.dir
+C:/Users/andre/informatica-ii/build-problem_par/CMakeFiles/rebuild_cache.dir
+C:/Users/andre/informatica-ii/build-problem_par/CMakeFiles/list_install_components.dir
+C:/Users/andre/informatica-ii/build-problem_par/CMakeFiles/install.dir
+C:/Users/andre/informatica-ii/build-problem_par/CMakeFiles/install/local.dir
+C:/Users/andre/informatica-ii/build-problem_par/CMakeFiles/install/strip.dir
