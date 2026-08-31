@@ -484,7 +484,7 @@ Escriba un programa que genere un número aleatorio **A** (entre `0` y `100`) y 
 ---
 <details>
 <summary><h2>3. Sustentación</h2></summary>
-Se sustenta los ejercicios pares, se requiere que el código contenga Menú y validaciones.
+Se sustentan los ejercicios pares, se requiere que el código contenga Menú y validaciones.
 
 **Solución** 
 [Ver solución sustentación](./ejercicios/problemas_pares/main.cpp)
@@ -492,7 +492,7 @@ Se sustenta los ejercicios pares, se requiere que el código contenga Menú y va
 
 
 <details>
-<summary><h2>3. Problemas (pares)</h2></summary>
+<summary><h2>4. Problemas (pares)</h2></summary>
 
 
 ### Problema 2.
@@ -514,6 +514,7 @@ Se necesita un programa que permita determinar la mínima combinación de billet
 50 : 0
 Faltante: 10
 ```
+
 ---
 ### Problema 4.
 
