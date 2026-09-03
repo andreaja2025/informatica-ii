@@ -43,6 +43,11 @@ El trabajo se centra especialmente en tres pilares:
     <td>Práctica</td>
     <td><a href="./practicas/practica-no-1/README.md">Práctica No. 1</a></td>
   </tr>
+    <tr>
+    <td>2</td>
+    <td>Práctica</td>
+    <td><a href="link">Práctica No. 2</a></td>
+  </tr>
 </table>
 
 
